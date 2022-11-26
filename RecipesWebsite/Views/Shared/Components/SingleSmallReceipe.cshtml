@@ -1,0 +1,27 @@
+﻿@model Recipe
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<div class="col-12 col-sm-6 col-lg-4">
+    <div class="single-small-receipe-area d-flex">
+        <!-- Receipe Thumb -->
+        <div class="receipe-thumb">
+            <img src="@Model.image" alt="">
+        </div>
+        <!-- Receipe Content -->
+        <div class="receipe-content">
+            <span>January 04, 2018</span>
+            <a href="receipe-post.html">
+                <h5>@Model.name</h5>
+            </a>
+            <div class="ratings">
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star" aria-hidden="true"></i>
+                <i class="fa fa-star-o" aria-hidden="true"></i>
+            </div>
+            <p>2 Comments</p>
+        </div>
+    </div>
+</div>

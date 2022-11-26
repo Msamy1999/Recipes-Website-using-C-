@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{ 
+    var SectionName = ViewData["SmallAreaSection"] ?? "No Small Receipes";
+    var SmallRecipes = ViewData["SmallReceipe"] as IEnumerable<Recipe>;
+
+}
+<section class="small-receipe-area section-padding-80-0">
+    <div class="container">
+        <h1>@SectionName</h1>
+        <div class="row">
+
+            <!-- Small Receipe Area -->
+            @foreach (Recipe item in SmallRecipes)
+            {
+                @await Html.PartialAsync("components/SingleSmallReceipe", item)
+            
+            }
+
+        </div>
+    </div>
+</section>

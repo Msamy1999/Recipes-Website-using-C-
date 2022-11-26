@@ -1,0 +1,24 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<section class="best-receipe-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-heading">
+                    <h3>@Model.SectionName</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <!-- Single Best Receipe Area -->
+            @foreach (Recipe item in Model.bestrecipes)
+            {
+                @await Html.PartialAsync("components/SingleBestReceipe", item)
+            
+            }
+        </div>
+    </div>
+</section>

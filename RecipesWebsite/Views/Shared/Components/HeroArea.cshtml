@@ -1,0 +1,14 @@
+﻿@model IEnumerable<Recipe>
+
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<section class="hero-area">
+    <div class="hero-slides owl-carousel">
+        @foreach (var recipe in Model)
+        { 
+            @await Html.PartialAsync("components/SingleHeroSlider", recipe)
+        }
+    </div>
+</section> 
+

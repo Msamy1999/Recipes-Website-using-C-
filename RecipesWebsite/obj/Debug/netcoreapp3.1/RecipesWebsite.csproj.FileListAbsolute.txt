@@ -1,0 +1,373 @@
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\appsettings.json
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Data\json.json
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Data\recipes.json
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.exe
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.deps.json
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.runtimeconfig.json
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.runtimeconfig.dev.json
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.pdb
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.Views.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.Views.pdb
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.csprojAssemblyReference.cache
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.AssemblyInfoInputs.cache
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.AssemblyInfo.cs
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.csproj.CoreCompileInputs.cache
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.MvcApplicationPartsAssemblyInfo.cache
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.RazorAssemblyInfo.cache
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.RazorAssemblyInfo.cs
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.TagHelpers.input.cache
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.TagHelpers.output.cache
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.RazorCoreGenerate.cache
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Recipes\Index.cshtml.g.cs
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_RecipeLayout.cshtml.g.cs
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.RazorTargetAssemblyInfo.cache
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.RazorTargetAssemblyInfo.cs
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.Views.pdb
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.csproj.CopyComplete
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\staticwebassets\RecipesWebsite.StaticWebAssets.Manifest.cache
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\staticwebassets\RecipesWebsite.StaticWebAssets.xml
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.dll
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.pdb
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.genruntimeconfig.cache
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Recipes\About.cshtml.g.cs
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Recipes\Blogs.cshtml.g.cs
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Recipes\Recipes.cshtml.g.cs
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Recipes\Contactus.cshtml.g.cs
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\breadcrumb.cshtml.g.cs
+D:\TIT\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\contactform.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\appsettings.json
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Data\json.json
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Data\recipes.json
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.exe
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.deps.json
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.runtimeconfig.json
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.runtimeconfig.dev.json
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.pdb
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.Views.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.Views.pdb
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.csprojAssemblyReference.cache
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.csproj.CoreCompileInputs.cache
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.MvcApplicationPartsAssemblyInfo.cache
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.RazorAssemblyInfo.cache
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.RazorAssemblyInfo.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.AssemblyInfoInputs.cache
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.AssemblyInfo.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.TagHelpers.input.cache
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.TagHelpers.output.cache
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.RazorCoreGenerate.cache
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Recipes\About.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Recipes\Blogs.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Recipes\Contactus.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Recipes\Index.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Recipes\Recipes.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\breadcrumb.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\contactform.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\HeroArea.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SingleHeroSlider.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_RecipeLayout.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.RazorTargetAssemblyInfo.cache
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.RazorTargetAssemblyInfo.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.Views.pdb
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.csproj.CopyComplete
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\staticwebassets\RecipesWebsite.StaticWebAssets.Manifest.cache
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\staticwebassets\RecipesWebsite.StaticWebAssets.xml
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.dll
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.pdb
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.genruntimeconfig.cache
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\BestReceipe.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SingleBestReceipe.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SingleSmallReceipe.cshtml.g.cs
+D:\IT\Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SmallReceipe.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\appsettings.json
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Data\json.json
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Data\recipes.json
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.exe
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.deps.json
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.runtimeconfig.json
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.runtimeconfig.dev.json
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.pdb
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.Views.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\RecipesWebsite.Views.pdb
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.csproj.AssemblyReference.cache
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.GeneratedMSBuildEditorConfig.editorconfig
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.AssemblyInfoInputs.cache
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.AssemblyInfo.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.csproj.CoreCompileInputs.cache
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.MvcApplicationPartsAssemblyInfo.cache
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.RazorAssemblyInfo.cache
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.RazorAssemblyInfo.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\staticwebassets\RecipesWebsite.StaticWebAssets.Manifest.cache
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\staticwebassets\RecipesWebsite.StaticWebAssets.xml
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\scopedcss\bundle\RecipesWebsite.styles.css
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.TagHelpers.input.cache
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.TagHelpers.output.cache
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.RazorCoreGenerate.cache
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Recipes\About.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Recipes\Blogs.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Recipes\Contactus.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Recipes\Index.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Recipes\Recipes.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\BestReceipe.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\breadcrumb.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\contactform.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\HeroArea.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SingleBestReceipe.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SingleHeroSlider.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SingleSmallReceipe.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SmallReceipe.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_RecipeLayout.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.RazorTargetAssemblyInfo.cache
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.RazorTargetAssemblyInfo.cs
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.Views.pdb
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.csproj.CopyComplete
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.dll
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.pdb
+D:\z Course Core\RecipesWebsite\RecipesWebsite\obj\Debug\netcoreapp3.1\RecipesWebsite.genruntimeconfig.cache
